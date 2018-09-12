@@ -20,7 +20,7 @@ You can embed an R code chunk like this:
 summary(cars)
 fit <- lm(dist ~ speed, data = cars)
 fit
-plot(fit)
+
 plot(dist~speed,data=cars)
 ```
 
