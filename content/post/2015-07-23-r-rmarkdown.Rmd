@@ -21,6 +21,7 @@ summary(cars)
 fit <- lm(dist ~ speed, data = cars)
 fit
 plot(fit)
+plot(dist~speed,data=cars)
 ```
 
 # Including Plots
