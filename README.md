@@ -1,2 +1,2 @@
 # testing_web_site
-testing of Hugo
+testing of Hugo static website
